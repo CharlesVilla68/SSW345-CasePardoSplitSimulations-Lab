@@ -1,1 +1,1 @@
-# SSW345-CasePardoSplitSimulations-Lab
+# MODEL AND SCOPE ARE IN REPO
